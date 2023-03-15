@@ -11,6 +11,8 @@ we will then answer provided stakeholder questions and support our answers with 
   - Data Description:
     - All Crimes that were reported in the city of Chicago and their details
 
+   ![alt text](https://github.com/spockthompson/Chicago-Crime-Data_Core-Project-4/blob/main/Screenshot%202023-03-15%20114036.png)
+
 ## Task
 Our task is to answer a series of questions about trends in crimes in Chicago for a reporter for the local newspaper.
 
@@ -36,5 +38,5 @@ Our task is to answer a series of questions about trends in crimes in Chicago fo
 5). Comparing Holidays:
   - Are there any holidays that show an increase in the # of crimes?
   - Are there any holidays that show a decrease in the # of crimes?
-   ![alt text](https://github.com/spockthompson/Chicago-Crime-Data_Core-Project-4/blob/main/Screenshot%202023-03-15%20114036.png)
+
   
