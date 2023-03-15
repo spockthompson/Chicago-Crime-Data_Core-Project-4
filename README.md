@@ -12,6 +12,8 @@ we will then answer provided stakeholder questions and support our answers with 
     - All Crimes that were reported in the city of Chicago and their details
 
    ![alt text](https://github.com/spockthompson/Chicago-Crime-Data_Core-Project-4/blob/main/Screenshot%202023-03-15%20114036.png)
+   
+   https://public.tableau.com/views/CoreProjectDashBoard/MainDashBoard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Task
 Our task is to answer a series of questions about trends in crimes in Chicago for a reporter for the local newspaper.
