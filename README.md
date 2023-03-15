@@ -32,7 +32,9 @@ Our task is to answer a series of questions about trends in crimes in Chicago fo
 4). Comparing Months:
  - What months have the most crime? What months have the least?
  - Are there any individual crimes that do not follow this pattern? If so, which crimes?
- 
+
 5). Comparing Holidays:
   - Are there any holidays that show an increase in the # of crimes?
   - Are there any holidays that show a decrease in the # of crimes?
+   ![alt text](https://github.com/spockthompson/Chicago-Crime-Data_Core-Project-4/blob/main/Screenshot%202023-03-15%20114036.png)
+  
