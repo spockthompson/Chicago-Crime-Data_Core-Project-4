@@ -1,7 +1,5 @@
 # Chicago Crime Data Project
 
-For this project, we will be starting an additional portfolio project that we will continue to build on over the remaining weeks of this stack.
-
 For Part 1, we will be downloading and preparing a crime dataset for time series analysis.
 we will then answer provided stakeholder questions and support our answers with visualizations.
 
