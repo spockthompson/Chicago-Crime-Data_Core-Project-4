@@ -1,9 +1,5 @@
 # Chicago Crime Data Project
 
-For Part 1, we will be downloading and preparing a crime dataset for time series analysis.
-we will then answer provided stakeholder questions and support our answers with visualizations.
-
-
 ## Chicago Crime Data
 - Source: Chicago Data Portal: Crimes 2001 to Present
   - Data Description:
