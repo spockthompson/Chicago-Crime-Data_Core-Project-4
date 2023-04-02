@@ -1,4 +1,4 @@
-# Chicago Crime Data_Core Project 4
+# Chicago Crime Data Project
 
 For this assignment, we will be starting an additional portfolio project that we will continue to build on over the remaining weeks of this stack.
 
